@@ -1,14 +1,20 @@
-# 🚗 Vehicle Management System - Java (Console and GUI)
-Concepts:
-Abstract and final classes,
-Inheritance and polymorphism,
-Encapsulation,
-Checked exceptions,
-Interface,
-Arrays,
-Java Swing (manual GUI),
-Events (ActionListener).
+# Vehicle Management System in Java
 
+Console and Swing application that registers passenger and cargo vehicles, written to practise object-oriented design in Java.
+
+| | |
+|---|---|
+| **Author** | Tiago Rodrigues · Universidade Tecnológica Federal do Paraná (UTFPR) |
+| **Date** | 2026-06-01 |
+| **Context** | Postgraduate Program in Java Technologies, UTFPR Londrina (Java I) |
+| **Stack** | Java · Swing |
+| **Other languages** | [Português](README.pt.md) · [Deutsch](README.de.md) |
+
+> **Resumo (PT).** Sistema de gestão de veículos de passeio e de carga em Java, com interface de console e Swing; exercício de classes abstratas, herança, polimorfismo, interfaces e exceções verificadas.
+
+## Concepts
+
+Abstract and final classes · inheritance and polymorphism · encapsulation · checked exceptions · interfaces · arrays · Java Swing (manual GUI) · events (ActionListener).
 
 ## 🧱 Project Structure (based on the diagram)
 
@@ -46,6 +52,7 @@ Events (ActionListener).
 
 ## ▶️ How to run
 
-### Console version 
+```bash
 javac *.java
 java Teste
+```
