@@ -46,8 +46,6 @@ Abstract and final classes · inheritance and polymorphism · encapsulation · c
   
 <img width="720" height="651" alt="Captura de tela 2026-06-01 144641" src="https://github.com/user-attachments/assets/e01df40f-2161-49dd-b8a7-3780e711799f" />
 
-<img width="809" height="465" alt="Captura de tela 2026-06-01 144618" src="https://github.com/user-attachments/assets/c3679675-6ce6-4a5b-8ee0-35131ada5fd5" />
-
 
 
 ## ▶️ How to run
